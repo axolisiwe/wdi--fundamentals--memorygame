@@ -11,14 +11,16 @@ h1 {
 	font-size: 45px;
 	margin: 0;
 }
-a {font-family: "Raleway", sans-serif;
+a {
+	font-family: "Raleway", sans-serif;
    color: #F15B31;
    letter-spacing: 1px;
    font-weight: 600;
    font-size: 18px;
    margin: 0 20px 0 20px;
 }
-h2 {font-family: "Raleway", sans-serif;
+h2 {
+	font-family: "Raleway", sans-serif;
 color: #0D2C40;
 letter-spacing: 1px;
 font-weight: 600;
@@ -49,11 +51,9 @@ font-size: 20px;
  	font-weight: 500; 
  }
  .copyright {
- 	font-family: "Raleway", sans-serif;
  	float: : left;
  }
  .message {
-font-family: "Raleway", sans-serif;
 float: right;
  }
  .clearfix:after {
